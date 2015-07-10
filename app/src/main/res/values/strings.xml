@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Jun27</string>
+
+    <string name="title_activity_mark">MyActivity</string>
+    <string name="log_in">log in or Create an account</string>
+    <string name="Help">Help</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonText">Explore Activities</string>
+    <string name="title_activity_deepali">DeepaliActivity</string>
+    <string name="preamble">Want to see more apps....</string>
+
+    <string name="logo">2.jpeg</string>
+</resources>
