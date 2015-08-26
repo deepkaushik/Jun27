@@ -1,4 +1,5 @@
 # Jun27
+App showing how user can open another app from the app activity and come back to its own app.
 App Showing use of:
 
 1. Activity launch other activity, Intent.
