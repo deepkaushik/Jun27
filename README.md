@@ -9,3 +9,4 @@ App Showing use of:
 4. Animations.
 5. More option under overflow menu.
 6. Change Action bar color.
+7. Error handling when other app not available on device.
